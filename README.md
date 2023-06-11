@@ -1,7 +1,7 @@
 # Use one message
 
 Have you ever found yourself talking about something but saying it in
-multiple messages? This might sound inocent but it can be very annoying.
+multiple messages? This might sound innocent but it can be very annoying.
 Take this example:
 
 > (9:15:30) **Foo** I just found out the craziest thing\
@@ -30,7 +30,7 @@ put this all into one message for two main points.
     going to have to wrap every one of your messages in a non-optimal
     way, wasting screen height.
 
-The first example could easily be converted to: 
+The first example could easily be converted to:
 
 > (9:16:45) **Foo** I just found out the craziest thing, when you
 fullscreen a video on youtube. You can actually scroll down to see the
