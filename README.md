@@ -8,7 +8,7 @@ Take this example:
 > (9:15:37) **Foo** when you fullscreen a video on youtube\
 > (9:15:48) **Foo** you can actually scroll down to see the comments\
 > (9:15:55) **Foo** like without going out of fullscreen\
-> (9:16:04) **Foo** how did I never know of this?
+> (9:16:04) **Foo** how did I never know about this?
 
 This is a normal message that I might see from some people; the thing
 is, they are using a new message as a new sentence. I believe you should
@@ -34,7 +34,7 @@ The first example could easily be converted to:
 
 > (9:16:45) **Foo** I just found out the craziest thing, when you
 fullscreen a video on youtube. You can actually scroll down to see the
-comments even while still being fullscreened. How did I never know of
+comments even while still being fullscreened. How did I never know about
 this?
 
 The first example would take me at least 34 seconds to read the full
