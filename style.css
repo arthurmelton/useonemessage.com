@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url("./opensans.ttf") format('truetype');
+}
+
+body {
+    max-width: 672px;
+    margin: auto;
+    font-family: "Open Sans";
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+quoteblock {
+    border-left: .25rem solid #736a5e;
+    padding-left: 1rem;
+    font-family: monospace;
+    display: table;
+}
+
+footer {
+    font-size: 14px;
+}
+
+hr {
+    margin-left: 5px;
+    margin-right: 5px;
+}
